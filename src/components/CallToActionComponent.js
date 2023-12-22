@@ -44,7 +44,7 @@ export function CallToActionComponent({ pathDownload, action }) {
           className="h-96 w-full rounded-2xl overflow-hidden flex justify-center items-center"
           style={{ backgroundImage: `url(${video1})`, backgroundSize: "cover" }}
         >
-          <a href="" target="_blank">
+          <a href="https://youtu.be/nJnqoeVQSwQ" target="_blank">
             <img src={videoIcon1} className="hover:cursor-pointer" />
           </a>
         </div>
